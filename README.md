@@ -44,8 +44,14 @@ Escolha uma prática ou dado de teste relevante e explique com suas próprias pa
 
 ## Respostas
 
-Repositório: `<URL_DO_REPOSITÓRIO>`
+Repositório: https://github.com/victorxkd/exploring-testing-practices
 
-URL TestMiner: `<URL_NO_TESTMINER>`
+URL TestMiner: https://andrehora.github.io/testminer/#juice-shop/juice-shop
 
-Explicação: `<SUA_EXPLICAÇÃO>`
+Explicação: Achei interessante que foi feita uma documentação de instruções/recomendações(prioritariamente para agentes de inteligência artificial, apesar de ser muito útil também para seres humanos) de como estão organizados os testes na aplicação, dividos em quatro suítes de testes(frontend, server unit, api integration e E2E), além de instruções claras de boas práticas e o que NÃO deve ser feito. Isso facilita todo o processo de criação de testes pois padroniza como deve ser realizado o processo, permitindo criação/validação de testes de forma mais rápida e com mais qualidade, em projetos grandes como este isso é essencial, já que reduz trabalho repetitivo
+
+Há todo um workflow automatizado que foi construído para agilizar o trabalho dos desenvolvedores com testes, a quantidade de tempo investido por desenvolvedores em testes é bastante considerável, automatizar parte do processo moroso e focar mais na parte de validação/gerenciamento dá liberdade para que o desenvolvedor possa focar em outras atividades para que a menor quantidade possível de bugs chegue em produção, eles até citam "instructions for writing automated tests that keep code coverage high for new functionality and close existing coverage gaps found in lvoc.iinfo files"
+
+É possível visualizar o arquivo a que me refiro aqui: https://github.com/juice-shop/juice-shop/blob/master/.ai/skills/write-tests/SKILL.md
+
+Também foi interessante visualizar a crescente na quantidade de testes, pois permite atestar a importância que foi sendo dada aos testes conforme o crescimento do sistema, o TestMiner fez com que fosse extremamente fácil visualizar isso.
