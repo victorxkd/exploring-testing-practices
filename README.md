@@ -44,7 +44,7 @@ Escolha uma prática ou dado de teste relevante e explique com suas próprias pa
 
 ## Respostas
 
-Repositório: https://github.com/victorxkd/exploring-testing-practices
+Repositório: https://github.com/juice-shop/juice-shop
 
 URL TestMiner: https://andrehora.github.io/testminer/#juice-shop/juice-shop
 
